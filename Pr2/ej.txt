@@ -1,0 +1,7 @@
+fruta verd, feas y deshechas llevar a una zona para descuento
+carne descuento dependiendo de la fecha o mes
+cumplen la fecha, retirarlo
+proceso inicial y final en general
+que hacer con el producto cuando no es valido, es feo, cerca de la caducidad ->promoción,cumplido->retirarlo
+llamadas a hacer pedido maybe o comprobar si hay productos para reemplzazarlo
+sino pedir al reponedor
